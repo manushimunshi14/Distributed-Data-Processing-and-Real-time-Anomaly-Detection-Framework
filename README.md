@@ -1,5 +1,3 @@
-## Contribution : 50-50 between both the teammates but commits may be imbalanced as we were usually working from one pc only. 
-
 ## Project 1
 
 ### Part 1: Batch Data Analysis with Hadoop
