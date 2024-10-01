@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1715215775237,"sparkVersion":"3.5.1","uid":"OneHotEncoder_be6ebe3e4964","paramMap":{"outputCol":"Severity_encoded","inputCol":"Severity_index"},"defaultParamMap":{"outputCol":"OneHotEncoder_be6ebe3e4964__output","handleInvalid":"error","dropLast":true}}

@@ -1,0 +1,1005 @@
+EventType,Location,Severity,Is_Anomaly
+general_health_report,Paris,medium,0.0
+health_mention,Paris,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+vaccination,London,low,0.0
+vaccination,London,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,London,medium,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,Berlin,high,0.0
+emergency_incident,Paris,high,0.0
+hospital_admission,London,high,0.0
+general_health_report,Berlin,medium,0.0
+vaccination,Berlin,low,0.0
+health_mention,Berlin,low,0.0
+emergency_incident,Boston,high,0.0
+emergency_incident,New York,high,0.0
+health_mention,Paris,low,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+vaccination,London,medium,0.0
+vaccination,New York,medium,0.0
+hospital_admission,London,medium,0.0
+health_mention,Los Angeles,low,0.0
+health_mention,Los Angeles,medium,0.0
+health_mention,Berlin,low,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,London,low,0.0
+emergency_incident,Berlin,high,0.0
+routine_checkup,Paris,low,0.0
+vaccination,Boston,low,0.0
+hospital_admission,Boston,high,0.0
+emergency_incident,Boston,high,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,New York,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+general_health_report,Berlin,medium,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Paris,low,0.0
+vaccination,Los Angeles,medium,0.0
+health_mention,Los Angeles,low,0.0
+hospital_admission,New York,high,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,Berlin,high,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,London,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+vaccination,Paris,medium,0.0
+hospital_admission,New York,medium,0.0
+health_mention,London,low,0.0
+hospital_admission,Los Angeles,high,0.0
+health_mention,Paris,medium,0.0
+health_mention,Boston,low,0.0
+vaccination,New York,low,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Berlin,high,0.0
+vaccination,Los Angeles,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,Los Angeles,low,0.0
+emergency_incident,London,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+vaccination,Boston,low,0.0
+health_mention,Berlin,low,0.0
+vaccination,Paris,low,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Los Angeles,high,0.0
+general_health_report,Boston,medium,0.0
+vaccination,New York,medium,0.0
+vaccination,Los Angeles,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+vaccination,Boston,medium,0.0
+hospital_admission,Berlin,high,0.0
+hospital_admission,Boston,high,0.0
+emergency_incident,Los Angeles,high,0.0
+vaccination,Berlin,low,0.0
+general_health_report,Paris,medium,0.0
+vaccination,London,medium,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Berlin,low,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,Los Angeles,medium,0.0
+emergency_incident,Boston,high,0.0
+vaccination,Paris,low,0.0
+emergency_incident,London,high,0.0
+vaccination,Paris,medium,0.0
+hospital_admission,New York,medium,0.0
+routine_checkup,London,low,0.0
+hospital_admission,Paris,medium,0.0
+vaccination,Berlin,medium,0.0
+emergency_incident,Boston,high,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,Boston,medium,0.0
+general_health_report,Boston,medium,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Boston,low,0.0
+hospital_admission,London,high,0.0
+vaccination,Boston,medium,0.0
+vaccination,New York,low,0.0
+routine_checkup,Los Angeles,low,0.0
+emergency_incident,London,high,0.0
+emergency_incident,Boston,high,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,London,low,0.0
+health_mention,New York,medium,0.0
+health_mention,New York,medium,0.0
+vaccination,Los Angeles,medium,0.0
+general_health_report,Boston,medium,0.0
+routine_checkup,Paris,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+hospital_admission,London,medium,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,Berlin,low,0.0
+health_mention,Berlin,medium,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,London,high,0.0
+vaccination,Berlin,low,0.0
+vaccination,Boston,low,0.0
+hospital_admission,New York,high,0.0
+hospital_admission,Berlin,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+emergency_incident,Berlin,high,0.0
+hospital_admission,Los Angeles,high,0.0
+general_health_report,Boston,medium,0.0
+routine_checkup,New York,low,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Los Angeles,low,0.0
+general_health_report,London,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,Paris,medium,0.0
+routine_checkup,Paris,low,0.0
+hospital_admission,Los Angeles,high,0.0
+vaccination,Berlin,medium,0.0
+general_health_report,New York,medium,0.0
+health_mention,New York,medium,0.0
+hospital_admission,Berlin,medium,0.0
+vaccination,Boston,medium,0.0
+routine_checkup,London,low,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,Berlin,medium,0.0
+routine_checkup,Boston,low,0.0
+health_mention,Boston,medium,0.0
+health_mention,Berlin,medium,0.0
+health_mention,New York,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+routine_checkup,New York,low,0.0
+general_health_report,New York,medium,0.0
+vaccination,Berlin,low,0.0
+health_mention,Boston,medium,0.0
+emergency_incident,New York,high,0.0
+emergency_incident,Boston,high,0.0
+routine_checkup,New York,low,0.0
+general_health_report,Paris,medium,0.0
+vaccination,Los Angeles,low,0.0
+emergency_incident,Los Angeles,high,0.0
+routine_checkup,New York,low,0.0
+general_health_report,New York,medium,0.0
+vaccination,Berlin,low,0.0
+vaccination,Berlin,low,0.0
+routine_checkup,Berlin,low,0.0
+vaccination,Berlin,low,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,New York,medium,0.0
+health_mention,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,New York,medium,0.0
+general_health_report,New York,medium,0.0
+health_mention,London,medium,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,New York,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Paris,high,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,Los Angeles,high,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,Berlin,high,0.0
+hospital_admission,Berlin,medium,0.0
+emergency_incident,London,high,0.0
+hospital_admission,Boston,medium,0.0
+health_mention,Berlin,medium,0.0
+routine_checkup,New York,low,0.0
+general_health_report,New York,medium,0.0
+hospital_admission,London,medium,0.0
+routine_checkup,London,low,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Los Angeles,low,0.0
+vaccination,New York,low,0.0
+general_health_report,Berlin,medium,0.0
+health_mention,New York,low,0.0
+emergency_incident,New York,high,0.0
+vaccination,New York,low,0.0
+health_mention,London,medium,0.0
+general_health_report,New York,medium,0.0
+routine_checkup,Boston,low,0.0
+health_mention,Berlin,medium,0.0
+routine_checkup,Paris,low,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Paris,high,0.0
+hospital_admission,New York,medium,0.0
+hospital_admission,Paris,medium,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,New York,low,0.0
+routine_checkup,New York,low,0.0
+general_health_report,Los Angeles,medium,0.0
+emergency_incident,Berlin,high,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Paris,medium,0.0
+health_mention,London,low,0.0
+vaccination,Berlin,low,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Berlin,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+emergency_incident,London,high,0.0
+routine_checkup,Paris,low,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,New York,low,0.0
+routine_checkup,Berlin,low,0.0
+hospital_admission,Boston,high,0.0
+routine_checkup,Berlin,low,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,Los Angeles,medium,0.0
+routine_checkup,Paris,low,0.0
+emergency_incident,London,high,0.0
+vaccination,Boston,low,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Paris,medium,0.0
+hospital_admission,London,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+routine_checkup,Boston,low,0.0
+health_mention,Berlin,medium,0.0
+emergency_incident,London,high,0.0
+hospital_admission,New York,medium,0.0
+vaccination,Los Angeles,medium,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Berlin,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+hospital_admission,Los Angeles,high,0.0
+health_mention,Boston,low,0.0
+hospital_admission,Boston,medium,0.0
+health_mention,London,medium,0.0
+vaccination,Berlin,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,Los Angeles,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,Boston,high,0.0
+vaccination,Berlin,medium,0.0
+hospital_admission,Boston,high,0.0
+routine_checkup,Los Angeles,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+hospital_admission,Berlin,high,0.0
+vaccination,Paris,low,0.0
+vaccination,London,medium,0.0
+vaccination,Berlin,low,0.0
+emergency_incident,New York,high,0.0
+general_health_report,London,medium,0.0
+hospital_admission,Boston,medium,0.0
+emergency_incident,Berlin,high,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,Boston,low,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+health_mention,New York,medium,0.0
+vaccination,Boston,low,0.0
+general_health_report,London,medium,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,Boston,low,0.0
+general_health_report,Boston,medium,0.0
+health_mention,New York,low,0.0
+routine_checkup,New York,low,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,Boston,medium,0.0
+health_mention,London,low,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,New York,medium,0.0
+routine_checkup,Paris,low,0.0
+vaccination,London,low,0.0
+routine_checkup,New York,low,0.0
+health_mention,Berlin,medium,0.0
+routine_checkup,Paris,low,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,Boston,low,0.0
+emergency_incident,London,high,0.0
+health_mention,Boston,medium,0.0
+hospital_admission,Paris,high,0.0
+hospital_admission,London,high,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,Boston,medium,0.0
+routine_checkup,London,low,0.0
+general_health_report,Berlin,medium,0.0
+health_mention,Boston,medium,0.0
+health_mention,Los Angeles,low,0.0
+vaccination,New York,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Paris,medium,0.0
+health_mention,Berlin,medium,0.0
+emergency_incident,London,high,0.0
+vaccination,Los Angeles,low,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,London,low,0.0
+emergency_incident,New York,high,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,New York,medium,0.0
+emergency_incident,New York,high,0.0
+vaccination,Berlin,low,0.0
+health_mention,Boston,medium,0.0
+general_health_report,Boston,medium,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,New York,medium,0.0
+routine_checkup,London,low,0.0
+vaccination,Los Angeles,low,0.0
+vaccination,Los Angeles,low,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Berlin,high,0.0
+routine_checkup,London,low,0.0
+general_health_report,Berlin,medium,0.0
+emergency_incident,Boston,high,0.0
+health_mention,Paris,low,0.0
+vaccination,Los Angeles,medium,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+hospital_admission,New York,high,0.0
+emergency_incident,London,high,0.0
+health_mention,Boston,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+hospital_admission,London,medium,0.0
+vaccination,London,medium,0.0
+health_mention,Los Angeles,medium,0.0
+routine_checkup,Boston,low,0.0
+emergency_incident,London,high,0.0
+vaccination,Paris,low,0.0
+hospital_admission,New York,high,0.0
+health_mention,London,medium,0.0
+vaccination,Los Angeles,medium,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,New York,medium,0.0
+general_health_report,Paris,medium,0.0
+health_mention,Boston,low,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Los Angeles,low,0.0
+general_health_report,London,medium,0.0
+routine_checkup,London,low,0.0
+health_mention,Berlin,low,0.0
+hospital_admission,New York,high,0.0
+vaccination,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+emergency_incident,Boston,high,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Berlin,medium,0.0
+vaccination,London,low,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,New York,high,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,Berlin,low,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,London,medium,0.0
+emergency_incident,Boston,high,0.0
+general_health_report,Los Angeles,medium,0.0
+general_health_report,London,medium,0.0
+vaccination,Paris,medium,0.0
+health_mention,Los Angeles,medium,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Paris,low,0.0
+hospital_admission,Berlin,high,0.0
+hospital_admission,Berlin,high,0.0
+vaccination,New York,low,0.0
+health_mention,Boston,low,0.0
+routine_checkup,London,low,0.0
+general_health_report,Berlin,medium,0.0
+health_mention,Boston,medium,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Paris,low,0.0
+general_health_report,Paris,medium,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Boston,low,0.0
+health_mention,Berlin,medium,0.0
+general_health_report,Paris,medium,0.0
+routine_checkup,Berlin,low,0.0
+vaccination,Los Angeles,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+vaccination,New York,medium,0.0
+vaccination,Paris,low,0.0
+emergency_incident,Berlin,high,0.0
+hospital_admission,Los Angeles,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,Paris,high,0.0
+health_mention,Boston,medium,0.0
+hospital_admission,New York,high,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,London,high,0.0
+health_mention,London,low,0.0
+vaccination,Boston,medium,0.0
+vaccination,Boston,medium,0.0
+hospital_admission,London,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,Berlin,low,0.0
+health_mention,Boston,low,0.0
+vaccination,Berlin,low,0.0
+general_health_report,Paris,medium,0.0
+vaccination,Berlin,medium,0.0
+health_mention,New York,low,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Boston,low,0.0
+vaccination,London,low,0.0
+routine_checkup,Paris,low,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+vaccination,Paris,low,0.0
+hospital_admission,London,high,0.0
+general_health_report,Boston,medium,0.0
+general_health_report,London,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Berlin,high,0.0
+health_mention,Berlin,medium,0.0
+routine_checkup,Boston,low,0.0
+vaccination,London,medium,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,Boston,high,0.0
+vaccination,Boston,medium,0.0
+vaccination,Berlin,medium,0.0
+general_health_report,New York,medium,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Boston,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,New York,low,0.0
+health_mention,Berlin,low,0.0
+vaccination,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,New York,low,0.0
+emergency_incident,Boston,high,0.0
+vaccination,Berlin,medium,0.0
+hospital_admission,Berlin,high,0.0
+vaccination,New York,low,0.0
+emergency_incident,Paris,high,0.0
+health_mention,Paris,medium,0.0
+routine_checkup,New York,low,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,New York,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,London,medium,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,London,high,0.0
+health_mention,Los Angeles,low,0.0
+general_health_report,London,medium,0.0
+health_mention,London,low,0.0
+health_mention,Berlin,low,0.0
+emergency_incident,Paris,high,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,Paris,low,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,New York,low,0.0
+vaccination,Berlin,low,0.0
+vaccination,New York,medium,0.0
+vaccination,Berlin,medium,0.0
+general_health_report,London,medium,0.0
+vaccination,London,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+routine_checkup,Paris,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+general_health_report,Berlin,medium,0.0
+vaccination,London,low,0.0
+routine_checkup,London,low,0.0
+vaccination,Boston,low,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Paris,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Paris,medium,0.0
+routine_checkup,Boston,low,0.0
+hospital_admission,Berlin,medium,0.0
+health_mention,Berlin,medium,0.0
+hospital_admission,Los Angeles,medium,0.0
+hospital_admission,London,high,0.0
+general_health_report,New York,medium,0.0
+vaccination,Paris,low,0.0
+vaccination,Paris,low,0.0
+general_health_report,Paris,medium,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,New York,medium,0.0
+vaccination,Berlin,medium,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Los Angeles,medium,0.0
+health_mention,Los Angeles,medium,0.0
+general_health_report,London,medium,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,Berlin,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+routine_checkup,London,low,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,New York,high,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Paris,low,0.0
+health_mention,Boston,medium,0.0
+hospital_admission,London,medium,0.0
+routine_checkup,Boston,low,0.0
+vaccination,Paris,low,0.0
+routine_checkup,Boston,low,0.0
+vaccination,Berlin,medium,0.0
+health_mention,Berlin,medium,0.0
+vaccination,London,low,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Paris,low,0.0
+emergency_incident,Paris,high,0.0
+hospital_admission,Berlin,high,0.0
+hospital_admission,Los Angeles,high,0.0
+hospital_admission,Boston,high,0.0
+general_health_report,Los Angeles,medium,0.0
+health_mention,Berlin,low,0.0
+emergency_incident,New York,high,0.0
+hospital_admission,Boston,high,0.0
+routine_checkup,New York,low,0.0
+vaccination,Los Angeles,low,0.0
+routine_checkup,Paris,low,0.0
+emergency_incident,London,high,0.0
+routine_checkup,Boston,low,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,New York,low,0.0
+vaccination,Boston,medium,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Boston,high,0.0
+vaccination,London,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,New York,low,0.0
+routine_checkup,New York,low,0.0
+hospital_admission,London,medium,0.0
+emergency_incident,Paris,high,0.0
+vaccination,Paris,medium,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+hospital_admission,Paris,medium,0.0
+emergency_incident,Boston,high,0.0
+vaccination,New York,medium,0.0
+general_health_report,Boston,medium,0.0
+health_mention,London,medium,0.0
+health_mention,New York,low,0.0
+vaccination,Paris,low,0.0
+health_mention,London,medium,0.0
+routine_checkup,London,low,0.0
+hospital_admission,Boston,medium,0.0
+vaccination,Boston,medium,0.0
+vaccination,Berlin,medium,0.0
+health_mention,London,low,0.0
+health_mention,London,low,0.0
+hospital_admission,Berlin,high,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Boston,low,0.0
+hospital_admission,Boston,high,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,Los Angeles,medium,0.0
+health_mention,Berlin,low,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,New York,medium,0.0
+general_health_report,London,medium,0.0
+health_mention,New York,low,0.0
+routine_checkup,Berlin,low,0.0
+general_health_report,London,medium,0.0
+health_mention,London,low,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,London,medium,0.0
+vaccination,New York,medium,0.0
+health_mention,Paris,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,New York,medium,0.0
+routine_checkup,Boston,low,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,New York,medium,0.0
+vaccination,London,medium,0.0
+vaccination,Berlin,low,0.0
+hospital_admission,Paris,medium,0.0
+vaccination,Berlin,medium,0.0
+hospital_admission,London,medium,0.0
+vaccination,New York,medium,0.0
+vaccination,Boston,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,Los Angeles,low,0.0
+emergency_incident,Boston,high,0.0
+emergency_incident,Los Angeles,high,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,New York,low,0.0
+health_mention,New York,low,0.0
+emergency_incident,Los Angeles,high,0.0
+vaccination,London,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,New York,medium,0.0
+routine_checkup,Boston,low,0.0
+health_mention,Los Angeles,low,0.0
+health_mention,New York,low,0.0
+emergency_incident,New York,high,0.0
+health_mention,Boston,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,Berlin,low,0.0
+routine_checkup,Boston,low,0.0
+health_mention,New York,low,0.0
+vaccination,Boston,medium,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,New York,low,0.0
+vaccination,Paris,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,Paris,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+vaccination,Berlin,low,0.0
+health_mention,Paris,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,New York,low,0.0
+health_mention,Boston,medium,0.0
+health_mention,New York,medium,0.0
+health_mention,London,low,0.0
+vaccination,London,medium,0.0
+general_health_report,London,medium,0.0
+health_mention,New York,low,0.0
+emergency_incident,New York,high,0.0
+vaccination,Boston,low,0.0
+vaccination,Los Angeles,medium,0.0
+hospital_admission,New York,high,0.0
+health_mention,Berlin,medium,0.0
+general_health_report,New York,medium,0.0
+health_mention,London,medium,0.0
+routine_checkup,Boston,low,0.0
+health_mention,New York,low,0.0
+emergency_incident,London,high,0.0
+routine_checkup,London,low,0.0
+health_mention,Berlin,medium,0.0
+hospital_admission,Boston,high,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Berlin,low,0.0
+vaccination,New York,low,0.0
+vaccination,New York,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+vaccination,New York,medium,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,London,medium,0.0
+health_mention,London,medium,0.0
+health_mention,New York,low,0.0
+health_mention,Berlin,low,0.0
+general_health_report,New York,medium,0.0
+health_mention,Los Angeles,low,0.0
+hospital_admission,Boston,high,0.0
+general_health_report,Paris,medium,0.0
+vaccination,Berlin,medium,0.0
+emergency_incident,Berlin,high,0.0
+vaccination,New York,medium,0.0
+health_mention,New York,low,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,Los Angeles,high,0.0
+hospital_admission,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+hospital_admission,Boston,high,0.0
+vaccination,London,low,0.0
+routine_checkup,Boston,low,0.0
+hospital_admission,London,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,New York,low,0.0
+hospital_admission,Boston,high,0.0
+hospital_admission,Berlin,high,0.0
+health_mention,London,low,0.0
+emergency_incident,London,high,0.0
+hospital_admission,New York,high,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Paris,high,0.0
+routine_checkup,London,low,0.0
+health_mention,New York,medium,0.0
+routine_checkup,Paris,low,0.0
+emergency_incident,Los Angeles,high,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,New York,low,0.0
+general_health_report,Boston,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Boston,medium,0.0
+vaccination,Berlin,medium,0.0
+emergency_incident,New York,high,0.0
+hospital_admission,Berlin,medium,0.0
+hospital_admission,Boston,medium,0.0
+hospital_admission,London,medium,0.0
+vaccination,Boston,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Paris,medium,0.0
+health_mention,New York,low,0.0
+health_mention,Los Angeles,medium,0.0
+routine_checkup,Boston,low,0.0
+health_mention,New York,medium,0.0
+general_health_report,New York,medium,0.0
+emergency_incident,Paris,high,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,London,low,0.0
+routine_checkup,Boston,low,0.0
+general_health_report,New York,medium,0.0
+vaccination,Paris,medium,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,New York,medium,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,Boston,low,0.0
+emergency_incident,Los Angeles,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,Boston,medium,0.0
+routine_checkup,Boston,low,0.0
+vaccination,Paris,low,0.0
+routine_checkup,London,low,0.0
+hospital_admission,Berlin,high,0.0
+health_mention,Los Angeles,medium,0.0
+general_health_report,Paris,medium,0.0
+hospital_admission,Los Angeles,high,0.0
+vaccination,Boston,low,0.0
+health_mention,Paris,low,0.0
+hospital_admission,New York,high,0.0
+vaccination,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+vaccination,London,medium,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Boston,high,0.0
+health_mention,Paris,medium,0.0
+general_health_report,New York,medium,0.0
+vaccination,London,medium,0.0
+routine_checkup,Boston,low,0.0
+general_health_report,New York,medium,0.0
+health_mention,London,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+general_health_report,Los Angeles,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Berlin,medium,0.0
+vaccination,Boston,low,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Boston,high,0.0
+health_mention,Paris,low,0.0
+routine_checkup,Boston,low,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,Berlin,high,0.0
+hospital_admission,Berlin,medium,0.0
+health_mention,London,low,0.0
+vaccination,Berlin,medium,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Paris,medium,0.0
+hospital_admission,Berlin,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+vaccination,Boston,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Boston,high,0.0
+health_mention,New York,low,0.0
+health_mention,London,medium,0.0
+health_mention,Berlin,low,0.0
+hospital_admission,Paris,medium,0.0
+health_mention,Paris,low,0.0
+vaccination,Berlin,low,0.0
+hospital_admission,Boston,medium,0.0
+hospital_admission,Berlin,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+routine_checkup,New York,low,0.0
+vaccination,New York,low,0.0
+emergency_incident,Boston,high,0.0
+hospital_admission,London,medium,0.0
+hospital_admission,Berlin,high,0.0
+routine_checkup,London,low,0.0
+health_mention,London,low,0.0
+vaccination,Paris,medium,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+health_mention,Berlin,medium,0.0
+general_health_report,Paris,medium,0.0
+health_mention,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+routine_checkup,New York,low,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,London,medium,0.0
+emergency_incident,New York,high,0.0
+vaccination,Paris,medium,0.0
+general_health_report,London,medium,0.0
+routine_checkup,London,low,0.0
+hospital_admission,Boston,high,0.0
+health_mention,Berlin,low,0.0
+routine_checkup,Boston,low,0.0
+general_health_report,Los Angeles,medium,0.0
+vaccination,Berlin,low,0.0
+hospital_admission,Boston,medium,0.0
+general_health_report,London,medium,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,New York,medium,0.0
+emergency_incident,Boston,high,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Los Angeles,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Boston,medium,0.0
+vaccination,Berlin,medium,0.0
+hospital_admission,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+health_mention,London,medium,0.0
+routine_checkup,New York,low,0.0
+hospital_admission,Paris,high,0.0
+vaccination,London,low,0.0
+hospital_admission,London,high,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,New York,medium,0.0
+vaccination,Boston,low,0.0
+general_health_report,London,medium,0.0
+hospital_admission,Paris,high,0.0
+emergency_incident,New York,high,0.0
+vaccination,London,low,0.0
+general_health_report,Berlin,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+emergency_incident,London,high,0.0
+hospital_admission,Los Angeles,medium,0.0
+health_mention,Los Angeles,medium,0.0
+health_mention,Berlin,medium,0.0
+vaccination,Boston,medium,0.0
+hospital_admission,Boston,medium,0.0
+general_health_report,Paris,medium,0.0
+vaccination,Berlin,low,0.0
+emergency_incident,Boston,high,0.0
+health_mention,New York,low,0.0
+vaccination,New York,low,0.0
+hospital_admission,Boston,medium,0.0
+vaccination,Los Angeles,low,0.0
+routine_checkup,Berlin,low,0.0
+hospital_admission,Los Angeles,medium,0.0
+emergency_incident,Paris,high,0.0
+general_health_report,Boston,medium,0.0
+hospital_admission,Paris,high,0.0
+vaccination,Los Angeles,medium,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Boston,low,0.0
+emergency_incident,Boston,high,0.0
+hospital_admission,Boston,medium,0.0
+vaccination,London,medium,0.0
+general_health_report,New York,medium,0.0
+hospital_admission,Paris,medium,0.0
+vaccination,Berlin,medium,0.0
+health_mention,Berlin,medium,0.0
+health_mention,New York,medium,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,Berlin,medium,0.0
+health_mention,Los Angeles,medium,0.0
+general_health_report,New York,medium,0.0
+hospital_admission,London,medium,0.0
+vaccination,New York,low,0.0
+emergency_incident,London,high,0.0
+emergency_incident,Los Angeles,high,0.0
+vaccination,New York,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+general_health_report,New York,medium,0.0
+health_mention,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+health_mention,Boston,medium,0.0
+general_health_report,Boston,medium,0.0
+health_mention,Berlin,low,0.0
+hospital_admission,New York,high,0.0
+health_mention,New York,medium,0.0
+health_mention,Boston,medium,0.0
+hospital_admission,London,high,0.0
+vaccination,New York,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,Boston,low,0.0
+general_health_report,Berlin,medium,0.0
+vaccination,Berlin,low,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,London,low,0.0
+vaccination,Los Angeles,medium,0.0
+vaccination,Los Angeles,low,0.0
+health_mention,Paris,medium,0.0
+hospital_admission,Berlin,medium,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Paris,low,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,Paris,medium,0.0
+general_health_report,Berlin,medium,0.0
+routine_checkup,Paris,low,0.0
+vaccination,Paris,low,0.0
+health_mention,Berlin,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Los Angeles,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Boston,high,0.0
+health_mention,Los Angeles,medium,0.0
+vaccination,Boston,medium,0.0
+emergency_incident,New York,high,0.0
+emergency_incident,Paris,high,0.0
+health_mention,Los Angeles,medium,0.0
+emergency_incident,London,high,0.0
+routine_checkup,Los Angeles,low,0.0
+emergency_incident,London,high,0.0
+vaccination,New York,medium,0.0
+emergency_incident,Paris,high,0.0
+health_mention,Paris,low,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Berlin,low,0.0
+routine_checkup,Berlin,low,0.0
+health_mention,Los Angeles,medium,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,New York,medium,0.0
+emergency_incident,London,high,0.0
+hospital_admission,Berlin,medium,0.0
+vaccination,Boston,low,0.0
+hospital_admission,Boston,high,0.0
+hospital_admission,London,medium,0.0
+general_health_report,Paris,medium,0.0
+emergency_incident,New York,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,Boston,medium,0.0
+vaccination,New York,medium,0.0
+hospital_admission,Los Angeles,medium,0.0
+general_health_report,Paris,medium,0.0
+emergency_incident,Los Angeles,high,0.0
+emergency_incident,London,high,0.0
+health_mention,London,low,0.0
+health_mention,Los Angeles,medium,0.0
+health_mention,Berlin,low,0.0
+routine_checkup,New York,low,0.0
+hospital_admission,Paris,medium,0.0
+general_health_report,Paris,medium,0.0
+vaccination,London,medium,0.0
+health_mention,New York,low,0.0
+routine_checkup,Los Angeles,low,0.0
+vaccination,Berlin,low,0.0
+health_mention,New York,low,0.0
+health_mention,Berlin,medium,0.0
+general_health_report,Paris,medium,0.0
+general_health_report,London,medium,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,Berlin,high,0.0
+general_health_report,Los Angeles,medium,0.0
+health_mention,Los Angeles,low,0.0
+hospital_admission,Los Angeles,high,0.0
+emergency_incident,Paris,high,0.0
+emergency_incident,Boston,high,0.0
+vaccination,New York,low,0.0
+vaccination,Boston,medium,0.0
+general_health_report,Berlin,medium,0.0
+emergency_incident,London,high,0.0
+health_mention,London,low,0.0
+hospital_admission,Boston,medium,0.0
+emergency_incident,London,high,0.0
+health_mention,Berlin,low,0.0
+hospital_admission,Berlin,high,0.0
+general_health_report,Boston,medium,0.0
+health_mention,New York,low,0.0
+emergency_incident,Paris,high,0.0
+routine_checkup,Paris,low,0.0
+routine_checkup,Boston,low,0.0
+emergency_incident,Berlin,high,0.0
+health_mention,London,low,0.0
+general_health_report,Los Angeles,medium,0.0
+routine_checkup,London,low,0.0
+routine_checkup,Los Angeles,low,0.0
+health_mention,Los Angeles,medium,0.0
+hospital_admission,Berlin,high,0.0
+routine_checkup,New York,low,0.0
+routine_checkup,New York,low,0.0
+general_health_report,Los Angeles,medium,0.0
+hospital_admission,Boston,high,0.0
+general_health_report,New York,medium,0.0
+general_health_report,London,medium,0.0
+routine_checkup,Boston,low,0.0
+routine_checkup,Boston,low,0.0
+health_mention,New York,low,0.0
+general_health_report,Berlin,medium,0.0
+hospital_admission,Berlin,medium,0.0
+general_health_report,Boston,medium,0.0
+general_health_report,Paris,medium,0.0
+routine_checkup,Berlin,low,0.0
+emergency_incident,New York,high,0.0
+emergency_incident,New York,high,0.0

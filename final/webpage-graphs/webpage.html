@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Webpage</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .container {
+            text-align: center;
+            width: 80%;  /* Set a width if needed */
+            margin-bottom: 40px; /* Space between sections */
+        }
+        .section-title {
+            margin-top: 20px;
+            color: #333;
+        }
+        p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>WEBPAGE FOR GRAPHS</h1>
+    <div class="container">
+        <hr>
+        <h2 class="section-title">Section 1: Visualizations for Streaming Health Events</h2>
+        <hr>
+        <p>This graph displays the  monthly fluctuations in various health event types in the dataset. </p>
+        <img src="graphs/eventsviz1.png" alt="Event Visualization 1">
+        <p>This graph displays monthly counts of different event types across multiple cities. </p>
+        <img src="graphs/eventsviz2.png" alt="Event Visualization 2">
+    </div>
+    <hr>
+    <div class="container">
+        <hr>
+        <h2 class="section-title">Section 2: Visualizations for Past Outbreaks</h2>
+        <hr>
+        <p>This dot plot charts the occurrence of outbreaks in various locations over time. </p>
+        <img src="graphs/outbreakviz1.png" alt="Event Visualization 3">
+        <p>This line chart displays the number of outbreaks each month.</p>
+        <img src="graphs/outbreakviz2.png" alt="Event Visualization 4">
+    </div>
+    <hr>
+    <div class="container">
+        <hr>
+        <h2 class="section-title">Section 3: Visualizations for Predicted Future Outbreaks</h2>
+        <hr>
+        <p>A bar chart visualising the target label Is_Anomaly for future outbreaks predicted on consumed data. </p>
+        <img src="graphs/future.png" alt="Event Visualization 8">
+    </div>
+    <hr>
+    <div class="container">
+        <hr>
+        <h2 class="section-title">Section 4: Other Graphs</h2>
+        <hr>
+        <p>This pie chart displays the distribution of events across locations, event types and severity types. </p>
+        <img src="graphs/eda-1.png" alt="Event Visualization 4">
+        <p>This stacked bar chart plots the severity counts for different event types.</p>
+        <img src="graphs/eda-2.png" alt="Event Visualization 5">
+        <p>This stacked bar chart plots the severity counts for different locations. </p>
+        <img src="graphs/eda-3.png" alt="Event Visualization 6">
+        <p>This is a time series chart displaying weekly event frequency for different locations.</p>
+        <img src="graphs/eda-4.png" alt="Event Visualization 7">
+    </div>
+</body>
+</html>

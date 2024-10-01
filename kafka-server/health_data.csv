@@ -1,0 +1,1006 @@
+EventType,Timestamp,Location,Severity,Details
+general_health_report,2024-04-06 01:24:37,Paris,medium,This is a simulated general_health_report event.
+health_mention,2024-04-06 01:24:50,Paris,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-06 01:27:06,Los Angeles,high,This is a simulated hospital_admission event.
+vaccination,2024-04-06 01:27:17,London,low,This is a simulated vaccination event.
+vaccination,2024-04-06 01:27:23,London,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-06 01:31:49,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-06 01:31:54,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-06 01:31:59,London,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-06 01:32:14,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-06 01:32:22,Berlin,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-06 01:32:37,Paris,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-06 01:32:40,London,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 17:42:13,Berlin,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 17:42:30,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 17:42:45,Berlin,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 17:42:51,Boston,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 17:42:57,New York,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 17:43:09,Paris,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 17:43:16,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 17:43:19,London,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 17:43:25,London,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 17:43:30,New York,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 17:43:48,London,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 17:43:56,Los Angeles,low,This is a simulated health_mention event.
+health_mention,2024-04-08 17:43:59,Los Angeles,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 17:44:03,Berlin,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 17:44:17,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 17:44:31,London,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 17:44:38,Berlin,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 17:44:55,Paris,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 17:45:05,Boston,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 17:45:24,Boston,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 17:45:30,Boston,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:45:39,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 17:45:55,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 17:46:13,New York,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 17:46:19,Los Angeles,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 17:46:30,Berlin,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 17:46:46,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:46:58,Paris,low,This is a simulated vaccination event.
+vaccination,2024-04-08 17:47:16,Los Angeles,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 17:47:24,Los Angeles,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 17:47:36,New York,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 17:47:49,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 17:48:01,Berlin,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 17:48:07,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 17:48:23,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:48:43,London,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 17:49:01,Los Angeles,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 17:49:08,Los Angeles,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 17:49:19,Paris,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 17:49:37,New York,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 17:49:48,London,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 17:49:52,Los Angeles,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 17:50:05,Paris,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 17:50:24,Boston,low,This is a simulated health_mention event.
+vaccination,2024-04-08 17:50:29,New York,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 17:50:32,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:50:46,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 17:51:03,Berlin,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 17:51:20,Los Angeles,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 17:51:35,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 17:51:55,Los Angeles,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 17:52:02,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 17:52:10,Los Angeles,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 17:52:13,Boston,low,This is a simulated vaccination event.
+health_mention,2024-04-08 17:52:27,Berlin,low,This is a simulated health_mention event.
+vaccination,2024-04-08 17:52:32,Paris,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 17:52:49,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 17:52:55,Los Angeles,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:52:58,Boston,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 17:53:04,New York,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 17:53:22,Los Angeles,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 17:53:39,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:53:57,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 17:54:13,Los Angeles,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:54:26,Boston,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 17:54:42,Berlin,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 17:54:56,Boston,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 17:55:05,Los Angeles,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:55:17,Berlin,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 17:55:29,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 17:55:42,London,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 17:55:55,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 17:56:12,Berlin,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 17:56:26,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 17:56:40,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 17:56:54,Los Angeles,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 17:57:11,Boston,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:57:26,Paris,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 17:57:30,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:57:44,Paris,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 17:57:53,New York,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 17:58:06,London,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 17:58:19,Paris,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 17:58:38,Berlin,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 17:58:48,Boston,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 17:59:02,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 17:59:22,Berlin,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 17:59:27,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 17:59:45,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 17:59:58,Boston,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:00:02,Boston,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:00:11,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:00:26,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:00:33,Boston,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:00:51,London,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:00:55,Boston,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 18:01:04,New York,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:01:17,Los Angeles,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:01:33,London,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:01:45,Boston,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:02:05,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:02:10,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:02:21,New York,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:02:24,New York,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:02:35,Los Angeles,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:02:45,Boston,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:02:52,Paris,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 18:03:07,Los Angeles,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:03:25,London,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:03:42,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:03:58,Berlin,low,This is a simulated health_mention event.
+health_mention,2024-04-08 18:04:18,Berlin,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:04:27,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:04:32,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:04:47,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:04:51,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:05:02,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:05:22,Berlin,low,This is a simulated vaccination event.
+vaccination,2024-04-08 18:05:38,Boston,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 18:05:50,New York,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:06:06,Berlin,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:06:22,Los Angeles,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:06:42,Berlin,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:06:49,Los Angeles,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 18:07:08,Boston,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:07:14,New York,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:07:33,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:07:45,Los Angeles,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:07:58,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:08:07,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:08:15,Paris,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:08:31,Paris,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 18:08:36,Los Angeles,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:08:43,Berlin,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:08:59,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:09:08,New York,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:09:27,Berlin,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:09:42,Boston,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:09:59,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:10:18,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:10:21,Berlin,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:10:32,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:17:06,Boston,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:17:26,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:17:40,New York,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:17:44,Los Angeles,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:17:56,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:18:02,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 18:18:16,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 18:18:34,Boston,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:18:38,New York,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:18:41,Boston,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:19:00,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:19:04,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 18:19:22,Los Angeles,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 18:19:34,Los Angeles,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:19:47,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:19:50,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 18:20:02,Berlin,low,This is a simulated vaccination event.
+vaccination,2024-04-08 18:20:19,Berlin,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:20:30,Berlin,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 18:20:37,Berlin,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:20:52,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:21:01,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:21:05,New York,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:21:09,Paris,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:21:15,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:21:28,New York,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 18:21:41,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:21:55,London,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:22:05,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:22:19,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:22:29,New York,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 18:22:37,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:22:46,Paris,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:23:00,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:23:14,Los Angeles,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:23:21,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:23:34,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:23:40,Berlin,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:23:43,Berlin,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:23:50,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:24:03,Boston,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:24:20,Berlin,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:24:38,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:24:52,New York,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:24:57,London,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:25:17,London,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:25:31,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:25:50,Los Angeles,low,This is a simulated vaccination event.
+vaccination,2024-04-08 18:26:07,New York,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:26:18,Berlin,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:26:35,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:26:48,New York,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:26:56,New York,low,This is a simulated vaccination event.
+health_mention,2024-04-08 18:27:08,London,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:27:27,New York,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:27:45,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:27:57,Berlin,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:28:16,Paris,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:28:25,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:28:34,Paris,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:28:46,New York,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:28:56,Paris,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:29:07,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:29:15,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:29:23,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:29:35,Los Angeles,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:29:42,Berlin,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:29:45,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:30:05,Paris,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:30:20,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 18:30:31,Berlin,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:30:34,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:30:37,Berlin,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:30:41,Los Angeles,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:30:49,London,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:30:52,Paris,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:31:03,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:31:14,New York,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:31:34,Berlin,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 18:31:41,Boston,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:31:52,Berlin,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:32:06,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:32:16,Los Angeles,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:32:25,Paris,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:32:38,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:32:46,Boston,low,This is a simulated vaccination event.
+health_mention,2024-04-08 18:32:49,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:32:54,Paris,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:33:03,London,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:33:17,Los Angeles,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:33:33,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:33:44,Berlin,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:33:49,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:34:08,New York,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:34:22,Los Angeles,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 18:34:37,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:34:48,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:35:02,Berlin,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:35:18,Los Angeles,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:35:28,Los Angeles,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:35:31,Boston,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:35:43,Boston,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:35:57,London,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:36:17,Berlin,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:36:35,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:36:54,Los Angeles,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 18:37:11,Los Angeles,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:37:28,Los Angeles,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:37:37,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:37:52,Boston,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:37:57,Berlin,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 18:38:02,Boston,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:38:07,Los Angeles,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 18:38:23,Los Angeles,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:38:39,Berlin,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:38:49,Paris,low,This is a simulated vaccination event.
+vaccination,2024-04-08 18:38:57,London,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 18:39:07,Berlin,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 18:39:13,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:39:20,London,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:39:38,Boston,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:39:50,Berlin,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:40:09,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:40:28,Boston,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:40:36,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:40:51,Los Angeles,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:41:11,New York,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:41:23,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:41:27,London,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:41:32,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:41:35,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:41:52,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:41:59,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:42:11,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:42:25,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:42:31,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:42:51,London,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:43:03,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:43:12,New York,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:43:27,Paris,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 18:43:44,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:43:53,New York,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:44:05,Berlin,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:44:15,Paris,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:44:34,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:44:47,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:44:50,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:45:03,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:45:23,Boston,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:45:43,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:45:46,Boston,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:45:57,Paris,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:46:01,London,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:46:16,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:46:36,Boston,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:46:39,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:46:51,Berlin,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:47:03,Boston,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:47:18,Los Angeles,low,This is a simulated health_mention event.
+vaccination,2024-04-08 18:47:23,New York,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:47:32,Los Angeles,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:47:37,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:47:49,Paris,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 18:47:53,Berlin,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:47:59,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:48:10,Los Angeles,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:48:15,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:48:26,London,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:48:38,New York,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:48:50,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:49:03,New York,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 18:49:19,New York,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:49:35,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 18:49:44,Boston,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:50:01,Boston,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:50:11,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:50:27,New York,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:50:44,London,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 18:50:53,Los Angeles,low,This is a simulated vaccination event.
+vaccination,2024-04-08 18:51:08,Los Angeles,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:51:14,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 18:51:31,Berlin,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 18:51:48,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:51:52,Berlin,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:52:02,Boston,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:52:09,Paris,low,This is a simulated health_mention event.
+vaccination,2024-04-08 18:52:26,Los Angeles,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:52:30,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:52:41,Los Angeles,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 18:52:45,New York,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 18:53:00,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 18:53:10,Boston,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:53:18,Los Angeles,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 18:53:22,London,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:53:34,London,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 18:53:52,Los Angeles,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:54:01,Boston,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:54:10,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:54:17,Paris,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 18:54:25,New York,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 18:54:35,London,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 18:54:47,Los Angeles,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:54:52,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:55:10,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:55:29,Paris,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 18:55:37,Boston,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:55:44,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 18:55:49,Los Angeles,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 18:56:09,London,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:56:16,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:56:28,Berlin,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 18:56:39,New York,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 18:56:45,Paris,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 18:57:02,Paris,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 18:57:17,Boston,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 18:57:25,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 18:57:43,Berlin,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 18:58:01,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 18:58:09,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 18:58:14,New York,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 18:58:22,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 18:58:38,Berlin,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 18:58:42,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 18:58:53,London,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 18:58:58,Boston,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 18:59:06,Los Angeles,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 18:59:25,London,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 18:59:28,Paris,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 18:59:31,Los Angeles,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 18:59:50,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 18:59:53,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:00:06,Paris,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 19:00:11,Berlin,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:00:27,Berlin,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:00:33,New York,low,This is a simulated vaccination event.
+health_mention,2024-04-08 19:00:45,Boston,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:01:01,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:01:18,Berlin,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:01:32,Boston,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:01:50,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:01:55,Paris,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:01:59,Paris,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 19:02:15,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:02:32,Boston,low,This is a simulated health_mention event.
+health_mention,2024-04-08 19:02:42,Berlin,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:02:46,Paris,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:03:04,Berlin,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:03:17,Los Angeles,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:03:29,Los Angeles,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:03:47,New York,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:04:04,Paris,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 19:04:10,Berlin,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 19:04:16,Los Angeles,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:04:25,Los Angeles,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 19:04:39,Los Angeles,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:04:52,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 19:04:56,Paris,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 19:05:15,Boston,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:05:24,New York,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 19:05:28,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 19:05:44,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:06:03,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 19:06:12,Boston,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:06:26,Boston,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:06:37,London,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 19:06:48,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:06:53,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 19:07:13,Boston,low,This is a simulated health_mention event.
+vaccination,2024-04-08 19:07:19,Berlin,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:07:22,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:07:42,Berlin,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 19:07:58,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:08:10,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:08:23,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:08:28,Boston,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:08:42,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:08:46,Paris,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:08:55,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 19:09:03,Los Angeles,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:09:06,Paris,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:09:10,London,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 19:09:21,Boston,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:09:38,London,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:09:43,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 19:09:49,Berlin,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 19:09:55,Berlin,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:10:15,Boston,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:10:20,London,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:10:28,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:10:43,Boston,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:11:01,Boston,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:11:12,Berlin,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:11:19,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:11:25,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:11:30,Boston,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:11:49,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:11:59,New York,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:12:02,Berlin,low,This is a simulated health_mention event.
+vaccination,2024-04-08 19:12:12,Berlin,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:12:18,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:12:26,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:12:46,New York,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:12:54,Boston,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:13:04,Berlin,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:13:20,Berlin,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:13:26,New York,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 19:13:58,Paris,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:14:14,Paris,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:14:26,New York,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:14:40,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:15:00,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:15:03,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:15:13,London,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:15:25,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 19:15:37,London,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 19:15:41,Los Angeles,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:15:53,London,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:16:12,London,low,This is a simulated health_mention event.
+health_mention,2024-04-08 19:16:19,Berlin,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:16:35,Paris,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 19:16:38,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:16:58,Paris,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:17:10,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:17:21,New York,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:17:39,Berlin,low,This is a simulated vaccination event.
+vaccination,2024-04-08 19:17:55,New York,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:18:04,Berlin,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:18:07,London,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:18:19,London,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:18:26,Los Angeles,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 19:18:32,Paris,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 19:18:41,Los Angeles,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 19:18:56,Berlin,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:19:11,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:19:18,London,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:19:23,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:19:31,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:19:38,Paris,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:19:44,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:20:02,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:20:12,Paris,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:20:21,Boston,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 19:20:28,Berlin,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 19:20:47,Berlin,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:21:05,Los Angeles,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:21:25,London,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 19:21:44,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:21:55,Paris,low,This is a simulated vaccination event.
+vaccination,2024-04-08 19:22:02,Paris,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:22:08,Paris,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:22:19,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:22:24,New York,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 19:22:38,Berlin,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 19:22:58,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:23:15,Los Angeles,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 19:23:18,Los Angeles,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:23:32,London,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:23:45,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:24:02,Berlin,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 19:24:13,Los Angeles,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 19:24:27,London,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:24:47,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:24:51,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 19:24:57,New York,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 19:25:12,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:25:26,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:25:35,Paris,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:25:43,Boston,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:25:47,London,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 19:25:59,Boston,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:26:14,Paris,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:26:23,Boston,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:26:32,Berlin,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 19:26:50,Berlin,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 19:26:59,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:27:13,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:27:25,Paris,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:27:44,Paris,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 19:27:57,Berlin,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:28:16,Los Angeles,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:28:29,Boston,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 19:28:35,Los Angeles,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:28:53,Berlin,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:29:13,New York,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 19:29:25,Boston,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 19:29:38,New York,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:29:42,Los Angeles,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:29:48,Paris,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:30:05,London,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 19:30:23,Boston,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:30:29,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:30:36,New York,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:30:49,Boston,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 19:30:53,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:31:10,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 19:31:30,Boston,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:31:48,London,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:32:06,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:32:25,New York,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:32:40,New York,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 19:32:44,London,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 19:33:04,Paris,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:33:17,Paris,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:33:26,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 19:33:30,Los Angeles,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 19:33:33,Paris,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 19:33:42,Boston,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:33:59,New York,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 19:34:11,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:34:16,London,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 19:34:33,New York,low,This is a simulated health_mention event.
+vaccination,2024-04-08 19:34:53,Paris,low,This is a simulated vaccination event.
+health_mention,2024-04-08 19:35:02,London,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:35:22,London,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 19:35:42,Boston,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:35:47,Boston,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:35:52,Berlin,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 19:36:11,London,low,This is a simulated health_mention event.
+health_mention,2024-04-08 19:36:30,London,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:36:33,Berlin,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 19:36:47,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 19:37:02,Boston,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:37:07,Boston,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 19:37:23,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 19:37:26,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:37:46,Los Angeles,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 19:37:52,Berlin,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:38:10,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:38:21,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:38:32,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:38:39,London,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:38:58,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:39:07,Berlin,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:39:22,London,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 19:39:30,London,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 19:39:39,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 19:39:48,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:40:04,London,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:40:17,New York,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 19:40:27,Paris,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:40:33,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:40:40,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:41:00,New York,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:41:15,Boston,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 19:41:24,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 19:41:30,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 19:41:33,London,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:41:41,Berlin,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:41:58,Paris,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:42:01,Berlin,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 19:42:07,London,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:42:23,New York,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 19:42:33,Boston,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:42:38,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:42:54,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:43:09,Los Angeles,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:43:24,Boston,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 19:43:32,Los Angeles,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 19:43:45,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:43:55,New York,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:44:06,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:44:21,Los Angeles,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 19:44:33,London,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 19:44:36,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 19:44:44,New York,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 19:44:57,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:45:13,Los Angeles,low,This is a simulated health_mention event.
+health_mention,2024-04-08 19:45:27,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 19:45:31,New York,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 19:45:37,Boston,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:45:54,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:46:00,Berlin,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:55:03,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:55:14,New York,low,This is a simulated health_mention event.
+vaccination,2024-04-08 19:55:33,Boston,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:55:42,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 19:55:56,New York,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 19:56:14,Paris,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 19:56:29,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 19:56:44,Paris,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 19:56:58,Los Angeles,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 19:57:18,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 19:57:53,Paris,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 19:58:09,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:00:15,New York,low,This is a simulated health_mention event.
+health_mention,2024-04-08 20:00:28,Boston,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:00:41,New York,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:00:59,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:01:05,London,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:01:16,London,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:01:35,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:01:48,New York,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:02:03,Boston,low,This is a simulated vaccination event.
+vaccination,2024-04-08 20:02:20,Los Angeles,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:02:24,New York,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:02:42,Berlin,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:02:56,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:03:13,London,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:03:30,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:03:47,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:04:06,London,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 20:04:22,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:04:35,Berlin,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:04:51,Boston,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:05:08,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:05:14,Berlin,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:05:20,New York,low,This is a simulated vaccination event.
+vaccination,2024-04-08 20:05:38,New York,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:05:45,Los Angeles,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:05:57,New York,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:06:10,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:06:25,London,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:06:34,London,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:06:51,New York,low,This is a simulated health_mention event.
+health_mention,2024-04-08 20:07:05,Berlin,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:07:17,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:07:25,Los Angeles,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:07:43,Boston,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:08:03,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:08:20,Berlin,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:08:36,Berlin,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:08:45,New York,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 20:09:04,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:09:17,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 20:09:27,Los Angeles,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:09:41,Paris,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:09:58,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:10:12,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:10:24,Los Angeles,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:10:43,Boston,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:10:51,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:11:07,Boston,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:11:24,London,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:11:38,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:11:50,New York,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:11:55,Boston,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:12:00,Berlin,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:12:08,London,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:12:23,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:12:42,New York,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:12:55,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:13:10,Paris,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:13:16,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:13:26,New York,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:13:29,Paris,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 20:13:57,Los Angeles,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 20:14:04,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:14:09,New York,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:14:23,Boston,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:14:26,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:14:33,Boston,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:14:44,Berlin,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:14:52,New York,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:15:03,Berlin,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:15:07,Boston,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:15:24,London,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:15:40,Boston,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:15:46,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:16:01,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:16:16,Paris,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:16:22,New York,low,This is a simulated health_mention event.
+health_mention,2024-04-08 20:16:39,Los Angeles,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:16:50,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:16:53,New York,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:17:04,New York,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:17:12,Paris,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 20:17:21,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:17:24,London,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:17:30,Boston,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:17:38,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:17:47,Paris,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 20:18:04,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 20:18:22,New York,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:18:35,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:18:40,Boston,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 20:18:49,Los Angeles,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:19:08,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:19:15,Boston,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:19:25,Boston,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:19:34,Paris,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:19:37,London,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:19:41,Berlin,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:19:50,Los Angeles,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:19:58,Paris,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:20:04,Los Angeles,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:20:24,Boston,low,This is a simulated vaccination event.
+health_mention,2024-04-08 20:20:27,Paris,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:20:33,New York,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:20:52,Berlin,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:21:02,London,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:21:14,London,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:21:19,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 20:21:22,Boston,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:21:28,Paris,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:21:46,New York,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:21:51,London,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:22:01,Boston,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:22:20,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:22:32,London,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:22:44,Los Angeles,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:22:51,Los Angeles,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:23:04,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:23:16,Berlin,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:23:28,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:23:46,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:23:52,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 20:24:04,Boston,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:24:24,Paris,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:24:34,Boston,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 20:24:52,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 20:25:02,Berlin,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:25:21,Berlin,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:25:28,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:25:44,Berlin,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 20:26:03,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:26:14,Paris,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:26:17,Berlin,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:26:26,Los Angeles,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:26:33,Boston,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:26:46,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:27:02,Boston,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:27:20,New York,low,This is a simulated health_mention event.
+health_mention,2024-04-08 20:27:23,London,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:27:37,Berlin,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:27:45,Paris,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:27:50,Paris,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:28:10,Berlin,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:28:17,Boston,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:28:25,Berlin,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:28:37,Los Angeles,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:28:54,New York,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:28:58,New York,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:29:07,Boston,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:29:14,London,medium,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:29:21,Berlin,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:29:28,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:29:36,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:29:40,Paris,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:29:55,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:30:09,Los Angeles,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:30:14,Los Angeles,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:30:23,Berlin,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:30:39,Paris,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:30:43,Paris,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:31:03,Paris,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:31:23,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:31:35,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:31:50,London,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 20:31:54,New York,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:31:59,Paris,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:32:05,London,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:32:17,London,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:32:33,Boston,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:32:44,Berlin,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:32:53,Boston,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:33:08,Los Angeles,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:33:19,Berlin,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:33:33,Boston,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:33:48,London,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:34:08,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:34:14,New York,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:34:30,Boston,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:34:44,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:34:51,Los Angeles,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:34:56,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:35:11,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:35:27,Boston,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:35:44,Berlin,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:35:54,Berlin,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:36:10,London,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:36:22,London,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:36:34,New York,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:36:46,Paris,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:37:00,London,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:37:19,London,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 20:37:36,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:38:27,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:38:30,New York,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:38:34,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:38:50,London,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:39:10,Paris,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 20:39:18,New York,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:39:32,London,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:39:48,Berlin,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:39:54,Los Angeles,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:40:02,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:40:20,Los Angeles,medium,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:40:28,Los Angeles,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:40:44,Berlin,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 20:41:03,Boston,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:41:08,Boston,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:41:21,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:41:24,Berlin,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:41:43,Boston,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:41:53,New York,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:42:07,New York,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:42:18,Boston,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:42:24,Los Angeles,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:42:27,Berlin,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 20:42:42,Los Angeles,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 20:43:00,Paris,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:43:09,Boston,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:43:23,Paris,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:43:30,Los Angeles,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:43:35,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:43:40,Boston,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:43:54,Boston,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:44:05,Boston,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:44:08,London,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:44:23,New York,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:44:28,Paris,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:44:46,Berlin,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 20:44:51,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:45:02,New York,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:45:16,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:45:36,Berlin,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:45:53,Los Angeles,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:46:08,New York,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:46:24,London,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:46:40,New York,low,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:46:52,London,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 20:47:00,Los Angeles,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:47:19,New York,medium,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:47:39,Los Angeles,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 20:47:48,New York,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:47:51,Paris,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:48:02,Paris,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:48:20,Boston,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:48:30,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 20:48:33,Berlin,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:48:46,New York,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:49:01,New York,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 20:49:21,Boston,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:49:37,London,high,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:49:42,New York,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:49:49,Los Angeles,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:50:02,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 20:50:07,Boston,low,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:50:13,Berlin,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:50:16,Berlin,low,This is a simulated vaccination event.
+routine_checkup,2024-04-08 20:50:26,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:50:34,London,low,This is a simulated health_mention event.
+vaccination,2024-04-08 20:50:49,Los Angeles,medium,This is a simulated vaccination event.
+vaccination,2024-04-08 20:51:06,Los Angeles,low,This is a simulated vaccination event.
+health_mention,2024-04-08 20:51:21,Paris,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 20:51:27,Berlin,medium,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 20:51:41,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:51:52,Paris,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:52:06,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 20:52:12,Paris,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 20:52:30,Berlin,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:52:36,Paris,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:52:55,Paris,low,This is a simulated vaccination event.
+health_mention,2024-04-08 20:53:02,Berlin,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:53:22,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:53:42,Los Angeles,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 20:53:46,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:53:53,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:54:11,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 20:54:52,Boston,high,This is a simulated hospital_admission event.
+health_mention,2024-04-08 20:55:01,Los Angeles,medium,This is a simulated health_mention event.
+vaccination,2024-04-08 20:55:12,Boston,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:55:24,New York,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 20:55:38,Paris,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:55:54,Los Angeles,medium,This is a simulated health_mention event.
+emergency_incident,2024-04-08 20:56:06,London,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 20:56:17,Los Angeles,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 20:56:29,London,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 20:56:46,New York,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:56:58,Paris,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 20:57:13,Paris,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 20:57:24,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 20:57:31,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:57:45,Berlin,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 20:57:57,Berlin,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 20:58:00,Los Angeles,medium,This is a simulated health_mention event.
+routine_checkup,2024-04-08 20:58:18,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 20:58:28,New York,medium,This is a simulated vaccination event.
+emergency_incident,2024-04-08 20:58:35,London,high,This is a simulated emergency_incident event.
+hospital_admission,2024-04-08 20:58:47,Berlin,medium,This is a simulated hospital_admission event.
+vaccination,2024-04-08 20:58:55,Boston,low,This is a simulated vaccination event.
+hospital_admission,2024-04-08 20:59:02,Boston,high,This is a simulated hospital_admission event.
+hospital_admission,2024-04-08 20:59:05,London,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 20:59:08,Paris,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 20:59:25,New York,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 20:59:35,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 20:59:46,Boston,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 20:59:55,New York,medium,This is a simulated vaccination event.
+hospital_admission,2024-04-08 21:00:11,Los Angeles,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 21:00:15,Paris,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 21:00:20,Los Angeles,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 21:00:32,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 21:00:49,London,low,This is a simulated health_mention event.
+health_mention,2024-04-08 21:00:54,Los Angeles,medium,This is a simulated health_mention event.
+health_mention,2024-04-08 21:01:13,Berlin,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 21:01:30,New York,low,This is a simulated routine_checkup event.
+hospital_admission,2024-04-08 21:01:40,Paris,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 21:01:52,Paris,medium,This is a simulated general_health_report event.
+vaccination,2024-04-08 21:01:58,London,medium,This is a simulated vaccination event.
+health_mention,2024-04-08 21:02:15,New York,low,This is a simulated health_mention event.
+routine_checkup,2024-04-08 21:02:21,Los Angeles,low,This is a simulated routine_checkup event.
+vaccination,2024-04-08 21:02:25,Berlin,low,This is a simulated vaccination event.
+health_mention,2024-04-08 21:02:42,New York,low,This is a simulated health_mention event.
+health_mention,2024-04-08 21:02:56,Berlin,medium,This is a simulated health_mention event.
+general_health_report,2024-04-08 21:03:01,Paris,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 21:03:11,London,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 21:03:25,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 21:03:28,Berlin,high,This is a simulated emergency_incident event.
+general_health_report,2024-04-08 21:03:40,Los Angeles,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 21:03:57,Los Angeles,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 21:04:09,Los Angeles,high,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 21:04:20,Paris,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-08 21:04:34,Boston,high,This is a simulated emergency_incident event.
+vaccination,2024-04-08 21:04:52,New York,low,This is a simulated vaccination event.
+vaccination,2024-04-08 21:05:00,Boston,medium,This is a simulated vaccination event.
+general_health_report,2024-04-08 21:05:10,Berlin,medium,This is a simulated general_health_report event.
+emergency_incident,2024-04-08 21:05:15,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 21:05:26,London,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 21:05:38,Boston,medium,This is a simulated hospital_admission event.
+emergency_incident,2024-04-08 21:05:48,London,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 21:05:52,Berlin,low,This is a simulated health_mention event.
+hospital_admission,2024-04-08 21:06:10,Berlin,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 21:06:25,Boston,medium,This is a simulated general_health_report event.
+health_mention,2024-04-08 21:06:35,New York,low,This is a simulated health_mention event.
+emergency_incident,2024-04-08 21:06:40,Paris,high,This is a simulated emergency_incident event.
+routine_checkup,2024-04-08 21:06:45,Paris,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 21:07:02,Boston,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-08 21:07:08,Berlin,high,This is a simulated emergency_incident event.
+health_mention,2024-04-08 21:07:19,London,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 21:07:22,Los Angeles,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 21:07:40,London,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 21:07:45,Los Angeles,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 21:07:57,Los Angeles,medium,This is a simulated health_mention event.
+hospital_admission,2024-04-08 21:08:09,Berlin,high,This is a simulated hospital_admission event.
+routine_checkup,2024-04-08 21:08:36,New York,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 21:08:54,New York,low,This is a simulated routine_checkup event.
+general_health_report,2024-04-08 21:08:57,Los Angeles,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 21:09:02,Boston,high,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 21:09:20,New York,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-08 21:09:34,London,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-08 21:09:41,Boston,low,This is a simulated routine_checkup event.
+routine_checkup,2024-04-08 21:09:51,Boston,low,This is a simulated routine_checkup event.
+health_mention,2024-04-08 21:10:03,New York,low,This is a simulated health_mention event.
+general_health_report,2024-04-08 21:10:19,Berlin,medium,This is a simulated general_health_report event.
+hospital_admission,2024-04-08 21:10:25,Berlin,medium,This is a simulated hospital_admission event.
+general_health_report,2024-04-08 21:10:44,Boston,medium,This is a simulated general_health_report event.
+general_health_report,2024-04-09 16:12:17,Paris,medium,This is a simulated general_health_report event.
+routine_checkup,2024-04-09 16:12:21,Berlin,low,This is a simulated routine_checkup event.
+emergency_incident,2024-04-09 16:12:26,New York,high,This is a simulated emergency_incident event.
+emergency_incident,2024-04-09 16:13:12,New York,high,This is a simulated emergency_incident event.
+
